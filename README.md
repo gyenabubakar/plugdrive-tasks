@@ -6,6 +6,6 @@ Work on issues that have your `[name]` in the title. For example, Frank would wo
 
 Repository — https://bitbucket.org/sourcertz/ev-frontend-v2/src/develop
 
-
+> This is a temporary space for our tasks. Do not comment on the isssues. If you have any questions, leave it in the `#development` channel on PlugDrive Slack.
 
 ## [Task list 👉](https://github.com/gyenabubakar/plugdrive-tasks/issues)
